@@ -44,11 +44,9 @@ MERN Stack Developer | AI & Machine Learning Enthusiast
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=chinmayameher&show_icons=true&theme=tokyonight" height="180em"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayameher&layout=compact&theme=tokyonight" height="180em"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=chinmayameher&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayameher&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -56,7 +54,7 @@ MERN Stack Developer | AI & Machine Learning Enthusiast
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=chinmayameher&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=chinmayameher&theme=tokyonight" />
 </p>
 
 ---
@@ -64,7 +62,7 @@ MERN Stack Developer | AI & Machine Learning Enthusiast
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=chinmayameher&theme=algolia&margin-w=10&margin-h=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=chinmayameher&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
