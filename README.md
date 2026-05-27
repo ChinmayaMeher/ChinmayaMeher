@@ -24,9 +24,23 @@ MERN Stack Developer | AI & Machine Learning Enthusiast
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.topcoder.com/members/768213" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="topcoder" height="30" width="40" />
+
+<a href="https://github.com/chinmayameher" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
+
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/chinmayameher-?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BO26m1DYlT5%2BLhL2JskcozA%3D%3D/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="mailto:chinmayameher69@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+
+<a href="https://leetcode.com/https://leetcode.com/u/ChinmayaMeher01//" target="blank">
+<img align="center" src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" height="40" />
+</a>
+
 </p>
 
 ---
