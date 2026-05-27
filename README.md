@@ -25,11 +25,11 @@ MERN Stack Developer | AI & Machine Learning Enthusiast
 
 <p align="left">
 
-<a href="https://github.com/chinmayameher" target="blank">
+<a href="https://github.com/chinmayameher" target="_blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/chinmayameher-?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BO26m1DYlT5%2BLhL2JskcozA%3D%3D/" target="blank">
+<a href="https://www.linkedin.com/in/chinmayameher/" target="_blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
@@ -37,7 +37,7 @@ MERN Stack Developer | AI & Machine Learning Enthusiast
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 
-<a href="https://leetcode.com/https://leetcode.com/u/ChinmayaMeher01//" target="blank">
+<a href="https://leetcode.com/u/ChinmayaMeher01/" target="_blank">
 <img align="center" src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" height="40" />
 </a>
 
