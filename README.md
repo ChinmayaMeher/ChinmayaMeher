@@ -29,7 +29,7 @@ MERN Stack Developer | AI & Machine Learning Enthusiast
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
-<a href="https://www.linkedin.com/in//www.linkedin.com/in/chinmayameher-/" target="_blank">
+<a href="https://www.linkedin.com/in/chinmayameher-/" target="_blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
