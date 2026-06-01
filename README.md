@@ -47,10 +47,14 @@ MERN Stack Developer | AI & Machine Learning Enthusiast
 
 ## 💻 Tech Stack
 
-<p align="left">
+### 🚀 Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,bootstrap,tailwind,java,python,c,cpp,kotlin,mongodb,mysql,postgresql,firebase" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,bootstrap,tailwind,git,github,docker,aws,opencv,tensorflow,pytorch,mysql,postgresql,firebase,figma,c,cpp,kotlin,linux" />
-
+### 🤖 AI/ML, Cloud & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,git,github,docker,aws,linux,figma" />
 </p>
 
 ---
