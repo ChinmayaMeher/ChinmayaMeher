@@ -71,28 +71,19 @@ MERN Stack Developer | AI & Machine Learning Enthusiast
 
 # 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=chinmayameher&theme=tokyonight" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=chinmayameher&theme=tokyonight)
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chinmayameher&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=chinmayameher&theme=tokyonight&no-frame=true&margin-w=10)
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chinmayameher&theme=tokyo-night"/>
-</p>
-
----
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chinmayameher&theme=tokyo-night)
 ## ⚡ Fun Fact
 
 💡 I love building real-world projects using AI, Machine Learning & Modern Web Technologies.
